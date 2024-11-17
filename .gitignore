@@ -1,0 +1,4 @@
+/.idea/
+/ssl/
+/public/*
+!/public/.gitkeep
